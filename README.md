@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 Eu sou a Ludmilla Lima
 
 <!--
 **ludlima/ludlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ludmilla de Jesus Lima
 
 Desenvolver Web - Back End | Modelagem de Dados
 
