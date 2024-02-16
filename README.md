@@ -12,7 +12,6 @@
 
 
 ![Lud GitHub stats](https://github-readme-stats.vercel.app/api?username=ludlima&show_icons=true&theme=cobalt&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludlima&demo=true)
 
 ## Tecnologias que eu uso no meu dia
