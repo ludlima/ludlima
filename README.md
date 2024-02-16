@@ -34,7 +34,6 @@ Desenvolvimento Web - Back End - Senac Brasil
 PROGRAMAÇÃO BÁSICA - MÓDULO 00: PRIMEIROS PASSOS - Estudonauta
 
 
-### Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 Estou entusiasmada em compartilhar minha jornada enquanto embarco em uma emocionante transição de carreira para o mundo da tecnologia. Com uma paixão crescente pela inovação e solução de problemas, decidi explorar novos horizontes e me aventurar no campo tecnológico.
 
@@ -42,8 +41,11 @@ Recentemente, tenho me dedicado a aprender sobre desenvolvimento de software, an
 
 Se você está no mundo da tecnologia, adoraria ouvir suas histórias, conselhos e insights. Estou aberta a conexões, mentorias e qualquer recurso valioso que você possa compartilhar com uma iniciante entusiasmada.
 
+#TransiçãoDeCarreira #Tecnologia #InicianteNaTecnologia #Networking
+
+### Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação.
 ### Vamos nos conectar, aprender e crescer juntos!
 
-#TransiçãoDeCarreira #Tecnologia #InicianteNaTecnologia #Networking
+
 
 
