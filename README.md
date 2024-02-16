@@ -13,6 +13,8 @@
 
 ![Lud GitHub stats](https://github-readme-stats.vercel.app/api?username=ludlima&show_icons=true&theme=cobalt&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludlima&hide_progress=true)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -25,7 +27,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 
 ## Formação:
 
